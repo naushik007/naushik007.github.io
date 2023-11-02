@@ -4,16 +4,16 @@
 
 ## Education
 
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)
-- M.S., Physics | The University of Texas at Dallas (_December 2019_)
-- B.S., Physics | The University of Texas at Dallas (_May 2017_)
+- M.S.C, Computer Science | Westcliff University at Irvine (_June 2025_)
+- B.E., Computer Engineering | Gujarat Technological University at Ahmedabad (_June 2019_)
 
 ## Work Experience
 
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
+**Front End Web Developer @ ABC Web Services (August 2019 - June 2023)**
 
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- Maintained website aesthetics and content standards, ensuring a consistent visual identity.
+- Crafted effective and responsive landing pages, driving user engagement and conversions.
+- Initiated knowledge-sharing sessions to foster creativity and innovation.
 
 **Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
 
@@ -22,30 +22,27 @@
 
 ## Projects
 
-### Data-Driven EEG Band Discovery with Decision Trees
+### User-Centric Web Application Development
 
 [Publication](https://www.mdpi.com/1424-8220/22/8/3048)
 
-Developed objective strategy for discovering optimal EEG bands based on signal power spectra using **Python**. This data-driven approach led to better characterization of the underlying power spectrum by identifying bands that outperformed the more commonly used band boundaries by a factor of two. The proposed method provides a fully automated and flexible approach to capturing key signal components and possibly discovering new indices of brain activity.
+Designed and maintained responsive web applications using Angular, optimizing user experiences and performance.
 
 ![EEG Band Discovery](/assets/img/eeg_band_discovery.jpeg)
 
-### Decoding Physical and Cognitive Impacts of Particulate Matter Concentrations at Ultra-Fine Scales
+### E-commerce Platform Enhancement
 
 [Publication](https://www.mdpi.com/1424-8220/22/11/4240)
 
-Used **Matlab** to train over 100 machine learning models which estimated particulate matter concentrations based on a suite of over 300 biometric variables. We found biometric variables can be used to accurately estimate particulate matter concentrations at ultra-fine spatial scales with high fidelity (r2 = 0.91) and that smaller particles are better estimated than larger ones. Inferring environmental conditions solely from biometric measurements allows us to disentangle key interactions between the environment and the body.
+Contributed to the development of a successful e-commerce platform, generating $90M in revenue in its first year.
 
 ![Bike Study](/assets/img/bike_study.jpeg)
 
-## Talks & Lectures
+## Certifications
 
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
+- Angular (Intermediate) Certificate | Sep, 2023
+- SQL (Advanced) Certificate | Sep, 2023
+- JavaScript (Intermediate) Certificate | Sep, 2023
 
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
